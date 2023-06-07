@@ -12,7 +12,7 @@
 class Me():
 
     def __init__(self):
-        self.name = "Roi Tabac"
+        self.name = "Roi Tabach"
         self.role = "Data Science & Cyber Expert"
 
     def say_hi(self):
