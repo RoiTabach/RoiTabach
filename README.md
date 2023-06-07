@@ -12,9 +12,8 @@
 class Me():
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "Roi Tabac"
         self.role = "Data Science & Cyber Expert"
-        self.language_spoken = ["he", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
